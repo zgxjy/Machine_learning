@@ -1,0 +1,2 @@
+1.使用sklearn库的现成模型对auto-mpg数据中的weight和mpg变量进行线性回归。
+2.使用sklearn库的现成模型对admission数据中的gpa和admit进行逻辑回归。
